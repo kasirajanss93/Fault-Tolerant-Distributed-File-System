@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration xmlns="http://java.sun.com/xml/ns/jax-rpc/ri/config">
+<service name="dsservice"
+         targetNamespace="urn:ds"
+         typeNamespace="urn:ds"
+         packageName="ds">
+<interface name="ds.dsint"/>
+</service>
+</configuration>
